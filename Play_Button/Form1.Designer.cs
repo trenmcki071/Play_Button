@@ -84,7 +84,7 @@ namespace Play_Button
             this.GO.BackColor = System.Drawing.Color.Green;
             this.GO.Font = new System.Drawing.Font("Arial", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GO.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.GO.Location = new System.Drawing.Point(111, 109);
+            this.GO.Location = new System.Drawing.Point(110, 112);
             this.GO.Name = "GO";
             this.GO.Size = new System.Drawing.Size(106, 38);
             this.GO.TabIndex = 4;
